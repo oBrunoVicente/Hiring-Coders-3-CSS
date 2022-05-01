@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center; color: blueviolet
+}
+.container{
+    max-width: 750px;
+    margin: auto;
+}
+button{
+    align-items: center; color: violet; background-color: darkslategrey;
+}
+.table{
+    max-width: 750px; 
+    margin: auto;
+    text-align: left; text-decoration: underline violet;
+    border: 2px solid darkslategrey
+
+}
